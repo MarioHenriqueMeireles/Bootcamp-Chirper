@@ -10,9 +10,10 @@ I recommend it!
 
 ## Do you want play? So, Do it!
 
-- Download the project
-- php artisan migrate
-- php artisan serve
-- Open in a Browser
-- Register a new user
-- Play a lite
+- Download the project;
+- Create the file: database/database.sqlite;
+- php artisan migrate;
+- php artisan serve;
+- Open in a Browser;
+- Register a new user;
+- Play a lite.
