@@ -12,6 +12,7 @@ I recommend it!
 
 - Download the project;
 - Create the file: database/database.sqlite;
+- Run composer update;
 - php artisan migrate;
 - php artisan serve;
 - Open in a Browser;
